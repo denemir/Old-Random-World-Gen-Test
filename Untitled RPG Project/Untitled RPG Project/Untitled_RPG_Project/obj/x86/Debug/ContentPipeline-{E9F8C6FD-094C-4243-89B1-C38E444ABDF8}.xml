@@ -1,0 +1,677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2020-06-14T17:44:44.5363861-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2020-06-14T17:15:52.2646561-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont3.spritefont</Source>
+      <Name>SpriteFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\SpriteFont3.xnb</Output>
+      <Time>2020-06-14T17:16:59.3621966-05:00</Time>
+    </Item>
+    <Item>
+      <Source>pixel.png</Source>
+      <Name>pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\pixel.xnb</Output>
+      <Time>2020-06-14T18:50:24.2044556-05:00</Time>
+    </Item>
+    <Item>
+      <Source>main d idle.png</Source>
+      <Name>main d idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d idle.xnb</Output>
+      <Time>2020-06-14T18:57:49.5494229-05:00</Time>
+    </Item>
+    <Item>
+      <Source>minus.png</Source>
+      <Name>minus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\minus.xnb</Output>
+      <Time>2020-06-14T19:34:36.795781-05:00</Time>
+    </Item>
+    <Item>
+      <Source>plus.png</Source>
+      <Name>plus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\plus.xnb</Output>
+      <Time>2020-06-14T19:00:08.2497906-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dungeon 1 1.png</Source>
+      <Name>dungeon 1 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\dungeon 1 1.xnb</Output>
+      <Time>2020-06-21T16:05:36.9205309-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dungeon 1 2.png</Source>
+      <Name>dungeon 1 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\dungeon 1 2.xnb</Output>
+      <Time>2020-06-21T16:05:36.9225321-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dungeon 1 3.png</Source>
+      <Name>dungeon 1 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\dungeon 1 3.xnb</Output>
+      <Time>2020-06-21T16:05:36.9245322-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dungeon 1 4.png</Source>
+      <Name>dungeon 1 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\dungeon 1 4.xnb</Output>
+      <Time>2020-06-21T16:05:36.9265327-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dungeon 1 5.png</Source>
+      <Name>dungeon 1 5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\dungeon 1 5.xnb</Output>
+      <Time>2020-06-21T16:05:36.9285334-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dungeon 1 6.png</Source>
+      <Name>dungeon 1 6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\dungeon 1 6.xnb</Output>
+      <Time>2020-06-21T16:05:36.9155301-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dungeon 1 7.png</Source>
+      <Name>dungeon 1 7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\dungeon 1 7.xnb</Output>
+      <Time>2020-06-21T16:05:36.9185311-05:00</Time>
+    </Item>
+    <Item>
+      <Source>main d idle 1.png</Source>
+      <Name>main d idle 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d idle 1.xnb</Output>
+      <Time>2020-06-21T16:12:49.5575748-05:00</Time>
+    </Item>
+    <Item>
+      <Source>main d idle 2.png</Source>
+      <Name>main d idle 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d idle 2.xnb</Output>
+      <Time>2020-06-21T16:12:49.5605762-05:00</Time>
+    </Item>
+    <Item>
+      <Source>main d run 1.png</Source>
+      <Name>main d run 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d run 1.xnb</Output>
+      <Time>2020-06-21T16:12:49.5625762-05:00</Time>
+    </Item>
+    <Item>
+      <Source>main d run 2.png</Source>
+      <Name>main d run 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d run 2.xnb</Output>
+      <Time>2020-06-21T16:12:49.564577-05:00</Time>
+    </Item>
+    <Item>
+      <Source>main d run 3.png</Source>
+      <Name>main d run 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d run 3.xnb</Output>
+      <Time>2020-06-21T16:12:49.5675773-05:00</Time>
+    </Item>
+    <Item>
+      <Source>main d run 4.png</Source>
+      <Name>main d run 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d run 4.xnb</Output>
+      <Time>2020-06-21T16:12:49.5695776-05:00</Time>
+    </Item>
+    <Item>
+      <Source>main d run 5.png</Source>
+      <Name>main d run 5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d run 5.xnb</Output>
+      <Time>2020-06-21T16:12:49.5545744-05:00</Time>
+    </Item>
+    <Item>
+      <Source>main d run 6.png</Source>
+      <Name>main d run 6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d run 6.xnb</Output>
+      <Time>2020-06-21T16:12:49.5555751-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass tile 1.png</Source>
+      <Name>grass tile 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass tile 1.xnb</Output>
+      <Time>2020-06-21T17:32:28.1242937-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spruce tile 1.png</Source>
+      <Name>spruce tile 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce tile 1.xnb</Output>
+      <Time>2020-06-21T19:32:32.2827569-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water tile 1.png</Source>
+      <Name>water tile 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water tile 1.xnb</Output>
+      <Time>2020-06-21T19:32:33.3515506-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sand tile 1.png</Source>
+      <Name>sand tile 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\sand tile 1.xnb</Output>
+      <Time>2020-06-21T17:32:41.9652242-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water tile 2.png</Source>
+      <Name>water tile 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water tile 2.xnb</Output>
+      <Time>2020-06-21T19:32:34.4533679-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass tile 2.png</Source>
+      <Name>grass tile 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass tile 2.xnb</Output>
+      <Time>2020-06-21T17:46:57.4813453-05:00</Time>
+    </Item>
+    <Item>
+      <Source>oak tree.png</Source>
+      <Name>oak tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\oak tree.xnb</Output>
+      <Time>2020-06-21T17:47:09.4077651-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sand tile 2.png</Source>
+      <Name>sand tile 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\sand tile 2.xnb</Output>
+      <Time>2020-06-21T19:32:34.4733732-05:00</Time>
+    </Item>
+    <Item>
+      <Source>cave 1.png</Source>
+      <Name>cave 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\cave 1.xnb</Output>
+      <Time>2020-06-21T17:48:29.4461161-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass tile 3.png</Source>
+      <Name>grass tile 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass tile 3.xnb</Output>
+      <Time>2020-06-21T19:32:18.613449-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass tile 4.png</Source>
+      <Name>grass tile 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass tile 4.xnb</Output>
+      <Time>2020-06-21T19:32:16.5005875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass to sand b l.png</Source>
+      <Name>grass to sand b l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand b l.xnb</Output>
+      <Time>2020-06-21T19:32:16.5035871-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass to sand b m.png</Source>
+      <Name>grass to sand b m</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand b m.xnb</Output>
+      <Time>2020-06-21T19:32:16.5065876-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass to sand b r.png</Source>
+      <Name>grass to sand b r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand b r.xnb</Output>
+      <Time>2020-06-21T19:32:16.5085878-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass to sand m l.png</Source>
+      <Name>grass to sand m l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand m l.xnb</Output>
+      <Time>2020-06-21T19:32:16.5175908-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass to sand m r.png</Source>
+      <Name>grass to sand m r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand m r.xnb</Output>
+      <Time>2020-06-21T19:32:16.520591-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass to sand u l.png</Source>
+      <Name>grass to sand u l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand u l.xnb</Output>
+      <Time>2020-06-21T19:32:16.5235916-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass to sand u m.png</Source>
+      <Name>grass to sand u m</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand u m.xnb</Output>
+      <Time>2020-06-21T19:32:16.5265936-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass to sand u r.png</Source>
+      <Name>grass to sand u r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand u r.xnb</Output>
+      <Time>2020-06-21T19:32:16.5295932-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sand patch.png</Source>
+      <Name>sand patch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\sand patch.xnb</Output>
+      <Time>2020-06-21T19:32:24.2932973-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sand tile 3.png</Source>
+      <Name>sand tile 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\sand tile 3.xnb</Output>
+      <Time>2020-06-21T19:32:34.4763731-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sand tile mm.png</Source>
+      <Name>sand tile mm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\sand tile mm.xnb</Output>
+      <Time>2020-06-21T19:32:34.4793738-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sand tile mml.png</Source>
+      <Name>sand tile mml</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\sand tile mml.xnb</Output>
+      <Time>2020-06-21T19:32:34.4823746-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sand tile mmr.png</Source>
+      <Name>sand tile mmr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\sand tile mmr.xnb</Output>
+      <Time>2020-06-21T19:32:34.4853755-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spruce b l.png</Source>
+      <Name>spruce b l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce b l.xnb</Output>
+      <Time>2020-06-21T19:32:31.2785337-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spruce b m.png</Source>
+      <Name>spruce b m</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce b m.xnb</Output>
+      <Time>2020-06-21T19:32:31.2815337-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spruce b r.png</Source>
+      <Name>spruce b r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce b r.xnb</Output>
+      <Time>2020-06-21T19:32:31.2845355-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spruce m l.png</Source>
+      <Name>spruce m l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce m l.xnb</Output>
+      <Time>2020-06-21T19:32:31.2875355-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spruce m r.png</Source>
+      <Name>spruce m r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce m r.xnb</Output>
+      <Time>2020-06-21T19:32:31.2950441-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spruce tile 2.png</Source>
+      <Name>spruce tile 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce tile 2.xnb</Output>
+      <Time>2020-06-21T19:32:32.2877593-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spruce tile 3.png</Source>
+      <Name>spruce tile 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce tile 3.xnb</Output>
+      <Time>2020-06-21T19:32:32.2937603-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spruce tile 4.png</Source>
+      <Name>spruce tile 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce tile 4.xnb</Output>
+      <Time>2020-06-21T19:32:32.2977618-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spruce tile 5.png</Source>
+      <Name>spruce tile 5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce tile 5.xnb</Output>
+      <Time>2020-06-21T19:32:32.3017621-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spruce u l.png</Source>
+      <Name>spruce u l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce u l.xnb</Output>
+      <Time>2020-06-21T19:32:32.304763-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spruce u m.png</Source>
+      <Name>spruce u m</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce u m.xnb</Output>
+      <Time>2020-06-21T19:32:32.3077633-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spruce u r.png</Source>
+      <Name>spruce u r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce u r.xnb</Output>
+      <Time>2020-06-21T19:32:32.3117643-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water b l.png</Source>
+      <Name>water b l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water b l.xnb</Output>
+      <Time>2020-06-21T19:32:32.3147654-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water b m.png</Source>
+      <Name>water b m</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water b m.xnb</Output>
+      <Time>2020-06-21T19:32:32.3177655-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water b r.png</Source>
+      <Name>water b r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water b r.xnb</Output>
+      <Time>2020-06-21T19:32:32.321767-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water m l.png</Source>
+      <Name>water m l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water m l.xnb</Output>
+      <Time>2020-06-21T19:32:32.3257681-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water m m.png</Source>
+      <Name>water m m</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water m m.xnb</Output>
+      <Time>2020-06-21T19:32:32.3297686-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water m r.png</Source>
+      <Name>water m r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water m r.xnb</Output>
+      <Time>2020-06-21T19:32:32.3327695-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water mml.png</Source>
+      <Name>water mml</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water mml.xnb</Output>
+      <Time>2020-06-21T19:32:32.3367707-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water mmr.png</Source>
+      <Name>water mmr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water mmr.xnb</Output>
+      <Time>2020-06-21T19:32:32.3407781-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water tile 3.png</Source>
+      <Name>water tile 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water tile 3.xnb</Output>
+      <Time>2020-06-21T19:32:34.4573689-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water tile 4.png</Source>
+      <Name>water tile 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water tile 4.xnb</Output>
+      <Time>2020-06-21T19:32:34.4613702-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water u l.png</Source>
+      <Name>water u l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water u l.xnb</Output>
+      <Time>2020-06-21T19:32:34.4663713-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water u m.png</Source>
+      <Name>water u m</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water u m.xnb</Output>
+      <Time>2020-06-21T19:32:34.4693719-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E9F8C6FD-094C-4243-89B1-C38E444ABDF8}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_ProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2020-04-21T13:47:08.2139965-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

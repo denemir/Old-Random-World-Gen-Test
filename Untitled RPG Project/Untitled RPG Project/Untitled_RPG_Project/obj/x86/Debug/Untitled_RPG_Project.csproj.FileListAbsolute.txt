@@ -1,0 +1,86 @@
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Untitled_RPG_Project.exe
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Untitled_RPG_Project.pdb
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\obj\x86\Debug\Untitled_RPG_Project.csprojResolveAssemblyReference.cache
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\obj\x86\Debug\Untitled_RPG_Project.exe
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\obj\x86\Debug\Untitled_RPG_Project.pdb
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\SpriteFont1.xnb
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\SpriteFont2.xnb
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\SpriteFont3.xnb
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\pixel.xnb
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d idle.xnb
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\minus.xnb
+c:\users\denem\documents\visual studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\plus.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\dungeon 1 1.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\dungeon 1 2.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\dungeon 1 3.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\dungeon 1 4.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\dungeon 1 5.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\dungeon 1 6.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\dungeon 1 7.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d idle 1.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d idle 2.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d run 1.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d run 2.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d run 3.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d run 4.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d run 5.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\main d run 6.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass tile 1.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce tile 1.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water tile 1.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\sand tile 1.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water tile 2.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass tile 2.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\oak tree.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\sand tile 2.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\cave 1.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass tile 3.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass tile 4.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand b l.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand b m.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand b r.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand m l.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand m r.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand u l.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand u m.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\grass to sand u r.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\sand patch.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\sand tile 3.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\sand tile mm.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\sand tile mml.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\sand tile mmr.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce b l.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce b m.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce b r.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce m l.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce m r.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce tile 2.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce tile 3.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce tile 4.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce tile 5.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce u l.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce u m.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\spruce u r.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water b l.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water b m.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water b r.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water m l.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water m m.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water m r.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water mml.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water mmr.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water tile 3.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water tile 4.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water u l.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\Untitled RPG Project\Untitled RPG Project\Untitled_RPG_Project\bin\x86\Debug\Content\water u m.xnb
